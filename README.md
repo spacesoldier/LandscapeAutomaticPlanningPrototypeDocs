@@ -1,0 +1,2 @@
+# LandscapeAutomaticPlanningPrototypeDocs
+Complete documentation repository for territory planning system prototype
